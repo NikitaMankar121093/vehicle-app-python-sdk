@@ -11,7 +11,7 @@
 # under the License.
 #
 # SPDX-License-Identifier: Apache-2.0
-
+#!python3.10
 import asyncio
 import logging
 from typing import Callable, Dict, List, Optional, Tuple
